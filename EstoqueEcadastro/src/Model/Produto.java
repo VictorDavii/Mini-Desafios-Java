@@ -1,0 +1,56 @@
+package Model;
+
+public class Produto {
+
+    private int id;
+    private String name;
+    private double price;
+    private int qtn;
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public double getPrice() {
+        return price;
+    }
+
+    public void setPrice(double price) {
+        this.price = price;
+    }
+
+    public int getQtn() {
+        return qtn;
+    }
+
+    public void setQtn(int qtn) {
+        this.qtn = qtn;
+    }
+
+    public Produto(int id, String name, double price, int qtn) {
+        this.id = id;
+        this.name = name;
+        this.price = price;
+        this.qtn = qtn;
+    }
+
+    public String toString(){
+        return "ID: " + id + " Produto: " + name + " Price: " + price + " Quantidade: " + qtn;
+    }
+
+    public double getValorTotal() {
+        return price * qtn;
+    }
+}

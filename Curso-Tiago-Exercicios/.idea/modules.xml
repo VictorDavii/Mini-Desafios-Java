@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ConversorBases/ConversorBases.iml" filepath="$PROJECT_DIR$/ConversorBases/ConversorBases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Curso-Tiago-Exercicios.iml" filepath="$PROJECT_DIR$/.idea/Curso-Tiago-Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INTRO/INTRO.iml" filepath="$PROJECT_DIR$/INTRO/INTRO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MegaSenna/MegaSenna.iml" filepath="$PROJECT_DIR$/MegaSenna/MegaSenna.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MeuPrimeiroProjeto/MeuPrimeiroProjeto.iml" filepath="$PROJECT_DIR$/MeuPrimeiroProjeto/MeuPrimeiroProjeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleCalculate/SimpleCalculate.iml" filepath="$PROJECT_DIR$/SimpleCalculate/SimpleCalculate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eventV/eventV.iml" filepath="$PROJECT_DIR$/eventV/eventV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercice002/exercice002.iml" filepath="$PROJECT_DIR$/exercice002/exercice002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guessTheNumber/guessTheNumber.iml" filepath="$PROJECT_DIR$/guessTheNumber/guessTheNumber.iml" />
+    </modules>
+  </component>
+</project>
