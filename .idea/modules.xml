@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Biblioteca/Biblioteca.iml" filepath="$PROJECT_DIR$/Biblioteca/Biblioteca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CadastroUsuarios/CadastroUsuarios.iml" filepath="$PROJECT_DIR$/CadastroUsuarios/CadastroUsuarios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contato/Contato.iml" filepath="$PROJECT_DIR$/Contato/Contato.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso-Tiago-Exercicios/ConversorBases/ConversorBases.iml" filepath="$PROJECT_DIR$/Curso-Tiago-Exercicios/ConversorBases/ConversorBases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Empresa/Empresa.iml" filepath="$PROJECT_DIR$/Empresa/Empresa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstoqueEcadastro/EstoqueEcadastro.iml" filepath="$PROJECT_DIR$/EstoqueEcadastro/EstoqueEcadastro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso-Tiago-Exercicios/INTRO/INTRO.iml" filepath="$PROJECT_DIR$/Curso-Tiago-Exercicios/INTRO/INTRO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Login_Senha/Login_Senha.iml" filepath="$PROJECT_DIR$/Login_Senha/Login_Senha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso-Tiago-Exercicios/Main/Main.iml" filepath="$PROJECT_DIR$/Curso-Tiago-Exercicios/Main/Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso-Tiago-Exercicios/MediaNotas/MediaNotas.iml" filepath="$PROJECT_DIR$/Curso-Tiago-Exercicios/MediaNotas/MediaNotas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso-Tiago-Exercicios/MegaSenna/MegaSenna.iml" filepath="$PROJECT_DIR$/Curso-Tiago-Exercicios/MegaSenna/MegaSenna.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso-Tiago-Exercicios/MeuPrimeiroProjeto/MeuPrimeiroProjeto.iml" filepath="$PROJECT_DIR$/Curso-Tiago-Exercicios/MeuPrimeiroProjeto/MeuPrimeiroProjeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MiniProjetosJAVA.iml" filepath="$PROJECT_DIR$/.idea/MiniProjetosJAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ORDENACAO/ORDENACAO.iml" filepath="$PROJECT_DIR$/ORDENACAO/ORDENACAO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso-Tiago-Exercicios/SimpleCalculate/SimpleCalculate.iml" filepath="$PROJECT_DIR$/Curso-Tiago-Exercicios/SimpleCalculate/SimpleCalculate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso-Tiago-Exercicios/cpfValid/cpfValid.iml" filepath="$PROJECT_DIR$/Curso-Tiago-Exercicios/cpfValid/cpfValid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso-Tiago-Exercicios/eventV/eventV.iml" filepath="$PROJECT_DIR$/Curso-Tiago-Exercicios/eventV/eventV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso-Tiago-Exercicios/exercice002/exercice002.iml" filepath="$PROJECT_DIR$/Curso-Tiago-Exercicios/exercice002/exercice002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso-Tiago-Exercicios/guessTheNumber/guessTheNumber.iml" filepath="$PROJECT_DIR$/Curso-Tiago-Exercicios/guessTheNumber/guessTheNumber.iml" />
+    </modules>
+  </component>
+</project>
